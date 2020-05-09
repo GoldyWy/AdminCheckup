@@ -1,0 +1,48 @@
+.border-top-info {
+    border-top: .25rem solid 
+    #36b9cc !important;
+}
+
+.topbar .dropdown-list .dropdown-header {
+    background-color: #36b9cc !important;
+	border: 1px solid #36b9cc !important;
+	padding-top: .75rem;
+	padding-bottom: .75rem;
+	color: #fff;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+	color: #fff;
+	background-color: #36b9cc;
+	border-color: #36b9cc;
+}
+
+.btn-label {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: rgba(0,0,0,0.15);border-radius: 3px 0 0 3px;}
+.btn-labeled {padding-top: 0;padding-bottom: 0;}
+.btn { margin-bottom:10px; }
+
+.active{
+	/*color: #ffffff;*/
+	border-left : 5px solid #ffffff !important;
+}
+
+.bg-gradient-antri {
+	background: rgb(21,79,239);
+	background: linear-gradient(0deg, rgba(21,79,239,1) 0%, rgba(139,232,252,1) 100%);
+}
+.header-list {
+	  background: rgb(41,97,255);
+background: linear-gradient(0deg, rgba(41,97,255,1) 0%, rgba(44,169,255,1) 100%); 
+}
+
+.header-ket {
+	  background: rgb(251,240,10);
+background: linear-gradient(0deg, rgba(251,240,10,1) 0%, rgba(255,214,44,1) 100%); 
+}
+
+.header-antri {
+	 background: rgb(40,40,40);
+background: linear-gradient(0deg, rgba(40,40,40,1) 0%, rgba(32,32,32,1) 100%); 
+}
+
